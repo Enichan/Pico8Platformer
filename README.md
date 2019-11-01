@@ -1,6 +1,8 @@
 # Pico8Platformer
 A platformer sample written for the [Pico-8](https://www.lexaloffle.com/pico-8.php) fantasy console, includes slopes and jump buffering.
 
+Visit the Pico-8 Forums for the [playable cartridge](https://www.lexaloffle.com/bbs/?tid=35821).
+
 **Features:**
 * Movement and jumping
 * Collision checking and resolution
