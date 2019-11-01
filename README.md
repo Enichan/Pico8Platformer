@@ -1,5 +1,5 @@
 # Pico8Platformer
-A platformer sample written for Pico-8, includes slopes and jump buffering.
+A platformer sample written for the [Pico-8](https://www.lexaloffle.com/pico-8.php) fantasy console, includes slopes and jump buffering.
 
 **Features:**
 * Movement and jumping
