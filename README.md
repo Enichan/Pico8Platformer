@@ -9,3 +9,5 @@ A platformer sample written for the [Pico-8](https://www.lexaloffle.com/pico-8.p
 * Platforming camera
 
 This sample was sponsored by DragonRuby. [DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) is a professional grade (yet beginner friendly) 2D game engine. It's tiny, fast as hell, and cross-platform (including consoles).
+
+If this sample was useful to you, please consider buying me a coffee on [Ko-fi](https://ko-fi.com/sharkhugseniko), or pledging on [Patreon](https://www.patreon.com/sharkhugseniko).
